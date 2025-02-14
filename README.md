@@ -15,11 +15,12 @@ A lightweight **CoAP (Constrained Application Protocol) library** for **Arduino*
 
 ## 📥 Installation  
 
-### 🔹 Option 1: Using Git  
+### 🔹 Using Git  
 Clone the repository into your Arduino `libraries` folder:  
 ```sh
 cd ~/Documents/Arduino/libraries
 git clone https://github.com/YourUsername/CoAP-Arduino-Library.git
+```
 
 ## ⚙️ Example
 ➡ [Arduino Traffic Light Example]([https://github.com/Mattia-Sacchi/CoAP-Arduino-Library](https://github.com/Mattia-Sacchi/TrafficLights-Project))  
