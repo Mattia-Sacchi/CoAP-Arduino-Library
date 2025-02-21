@@ -2,6 +2,10 @@
 
 A lightweight **CoAP (Constrained Application Protocol) library** for **Arduino**, enabling communication with **IoT devices** over constrained networks.  
 
+
+This library is a wrapper around the Simple CoAP Library by Hirota Kaster
+➡ [CoAP Simple Library](https://github.com/hirotakaster/CoAP-simple-library))  
+
 ---
 
 ## 📌 Features  
