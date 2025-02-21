@@ -27,7 +27,7 @@ git clone https://github.com/YourUsername/CoAP-Arduino-Library.git
 ```
 
 ## ⚙️ Example
-➡ [Arduino Traffic Light Example]([https://github.com/Mattia-Sacchi/CoAP-Arduino-Library](https://github.com/Mattia-Sacchi/TrafficLights-Project))  
+➡ [Arduino Traffic Light Example](https://github.com/Mattia-Sacchi/TrafficLights-Project)  
 
 ## 🛠 Dependencies
 This library requires:
